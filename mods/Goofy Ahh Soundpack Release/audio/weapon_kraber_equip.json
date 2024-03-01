@@ -1,0 +1,4 @@
+{
+	"EventId": [ "weapon_kraber_equip" ],
+	"AudioSelectionStrategy": "random"
+}

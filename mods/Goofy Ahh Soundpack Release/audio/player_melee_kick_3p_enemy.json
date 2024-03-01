@@ -1,0 +1,4 @@
+{
+	"EventId": [ "player_melee_kick_3p_enemy" ],
+	"AudioSelectionStrategy": "random"
+}

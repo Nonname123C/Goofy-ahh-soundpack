@@ -1,0 +1,4 @@
+{
+	"EventId": [ "titan_melee_hit" ],
+	"AudioSelectionStrategy": "random"
+}

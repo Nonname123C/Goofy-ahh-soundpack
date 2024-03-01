@@ -1,0 +1,4 @@
+{
+	"EventId": [ "weapon_vortex_gun_explosivewarningbeep" ],
+	"AudioSelectionStrategy": "random"
+}

@@ -1,0 +1,4 @@
+{
+    "EventId": [ "Pilot_Mvmt_Execution_Pulse_Pilot" ],
+    "AudioSelectionStrategy": "sequential"
+}

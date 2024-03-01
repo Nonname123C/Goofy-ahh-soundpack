@@ -1,0 +1,4 @@
+{
+	"EventId": [ "player_hitbeep" ],
+	"AudioSelectionStrategy": "random"
+}

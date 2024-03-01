@@ -1,0 +1,4 @@
+{
+	"EventId": [ "diag_reaper_enemy_spotted" ],
+	"AudioSelectionStrategy": "random"
+}

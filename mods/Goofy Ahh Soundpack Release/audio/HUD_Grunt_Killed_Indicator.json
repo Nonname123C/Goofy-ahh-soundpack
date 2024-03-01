@@ -1,0 +1,4 @@
+{
+	"EventId": [ "HUD_Grunt_Killed_Indicator" ],
+	"AudioSelectionStrategy": "random"
+}

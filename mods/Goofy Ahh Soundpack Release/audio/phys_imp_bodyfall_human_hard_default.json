@@ -1,0 +1,4 @@
+{
+	"EventId": [ "phys_imp_bodyfall_human_hard_default" ],
+	"AudioSelectionStrategy": "random"
+}

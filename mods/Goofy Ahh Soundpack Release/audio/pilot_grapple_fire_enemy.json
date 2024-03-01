@@ -1,0 +1,4 @@
+{
+	"EventId": [ "pilot_grapple_fire_enemy" ],
+	"AudioSelectionStrategy": "random"
+}

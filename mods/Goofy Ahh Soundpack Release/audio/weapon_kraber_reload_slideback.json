@@ -1,0 +1,4 @@
+{
+	"EventId": [ "weapon_kraber_reload_slideback" ],
+	"AudioSelectionStrategy": "sequential"
+}

@@ -1,0 +1,4 @@
+{
+	"EventId": [ "weapon_fraggrenade_throw" ],
+	"AudioSelectionStrategy": "random"
+}

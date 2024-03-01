@@ -1,0 +1,17 @@
+ -To disable an event from playing any sounds (will be replaced with vanilla sounds), rename the files that have ".json" with ".txt" or delete it
+    For example "titan_1p_warpfall_start.json" to "titan_1p_warpfall_start.txt". You can keep the folder of the same name 
+       intact, it only contains .wav files.
+
+
+  -To disable a specific sound from playing, go into the specific folder and remove that specific audio file, this can be done 
+  by putting the .wav file outside it's folder or deleting it outright if you do not want it.
+     (if the sound folder only has 1 file, you can also disable/delete the json file)
+
+
+  -You can disable the whole mod itself in the in-game mod menu or go into the "enabledmods.json" located in 
+      Titanfall2\R2Northstar, find the mod's name, it should be "Goofy ahh sound pack" and change it from "true" to "false"
+      Or with mod manager, idk i never use them for Northstar.
+
+
+  -Some audio can be quite loud, it was made so that you can actually hear them in the game properly, do take caution and 
+      lower your volume when previewing some of the sounds here.

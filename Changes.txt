@@ -1,0 +1,138 @@
+This is for when you wanna check which sound event i replaced, and you can view the mod's contents itself to find out how much to replaced in details
+
+
+1p: first person 
+3p: third person aka everyone else but yours
+3p enemy: same as 3p but only enemies can play those sounds
+
+i will include 1p or 3p if it's exclusive to that perspective, otherwise assume it can play for both 1p and 3p
+
+
+
+
+-----------------Minions-----------------------
+Grunts deployment, enemy spotted, pilot spotted dialouges
+        death sound
+        grav struggle 
+        friendly died dialouge
+          
+Reapers changed all sounds appropriate with Reapers
+
+A few more grunt voice lines
+
+
+
+
+-------------------Gameplay---------------------------
+Pilot melee swings (less extensive for 3p, you won't hear those sounds anyway if you're more than 3 meters away from them)
+      impact sounds for flesh and android targets
+
+Sliding sounds replaced with Source sounds (1p)
+
+
+
+
+   -------------Tacticals-------------
+Cloak activation (not changes for 3p enemy)
+
+Pulse Blade unsheath (1p only), activation and sonar pulses 
+
+Stim activation
+
+Grapple firing 
+
+Phase enter and exit
+
+Holo holopilots expire sound (you won't likely notice it anyway unless you melee one)
+
+A-wall deploy and tick deploy
+
+
+
+
+  --------Ordnance---------
+Firestar and grav star yeets 
+
+Firestar and grav star impact 
+
+Satchel throw 
+ 	Explosion (1p)
+
+
+Frag Grenade throw
+
+Arc grenade detonation
+
+Smoke deploy
+   
+
+
+   ---------Weapons----------
+Sidewinder, Eva8, Mastiff and Kraber equip sounds (1p)
+
+Thunderbolt fire
+
+Charge Rifle windup
+
+Kraber chambering
+
+
+
+---------------Misc------------------
+Flesh and android ragdoll impact sounds to Source sounds
+
+Gib sounds
+
+Bullet impacts replaced with Source^tm
+
+Sonar Tagged by enemy (1p) 
+
+HUD abilities cooldown notification (pilot and titan)
+
+Tick arming to explode 
+
+Impact sound for when you get melee'd by Minions (and players assuming you play on a server with reduced melee damage)
+
+Object disolve sounds (Wargames)
+
+Evac dropship entrance
+
+Amogus now plays
+
+
+
+      ------------Titans----------------
+Ronin Sword block sounds 
+
+Tether Trap deployment and activation
+
+Phase Dash end
+
+Legion Powershot and Gunshield sound 
+
+Scorch Firewall activation (1p)
+
+Ion Laser Shot fire
+
+Tone lock sound
+
+-Universal:
+  All Titan core and dash sounds 
+ 
+  Titan explosion 
+
+  Titan nuke eject
+
+  Shoulder Pods deployment sound 
+
+  Dome shield and warpfall sounds
+
+  Titan roadkill sounds
+
+  Spawn as titan warpfall 
+
+  Missiles fire
+
+
+-----------------Executions / Terminations------------------
+All executions except Ion default (static at the end)

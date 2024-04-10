@@ -1,4 +1,4 @@
 {
-	"EventId": [ "titan_nuclear_death_charge" ],
-	"AudioSelectionStrategy": "random"
+    "EventId": [ "titan_nuclear_death_charge" ],
+    "AudioSelectionStrategy": "random"
 }

@@ -1,0 +1,4 @@
+{
+	"EventId": [ "titan_nuclear_death_alarm" ],
+	"AudioSelectionStrategy": "random"
+}

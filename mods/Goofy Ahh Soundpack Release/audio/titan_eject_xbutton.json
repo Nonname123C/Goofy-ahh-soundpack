@@ -1,0 +1,4 @@
+{
+    "EventId": [ "titan_eject_xbutton" ],
+    "AudioSelectionStrategy": "sequential"
+}

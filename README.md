@@ -48,3 +48,5 @@ Contact @nonname123 on Northstar Discord server if you have issues related to my
 1.2.1: Forgor default Legion execution
 
 1.2.2: Forgor the later half of a-wall execution
+
+1.2.3: Added Rodeo sounds and updated Grand Theft Semi Auto sound

@@ -1,0 +1,4 @@
+{
+	"EventId": [ "player_death" ],
+	"AudioSelectionStrategy": "random"
+}

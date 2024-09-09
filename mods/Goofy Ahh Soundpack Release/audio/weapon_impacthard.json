@@ -1,0 +1,4 @@
+{
+	"EventId": [ "weapon_impacthard" ],
+	"AudioSelectionStrategy": "random"
+}

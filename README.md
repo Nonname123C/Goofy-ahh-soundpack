@@ -50,3 +50,11 @@ Contact @nonname123 on Northstar Discord server if you have issues related to my
 1.2.2: Forgor the later half of a-wall execution
 
 1.2.3: Added Rodeo sounds, Grand Theft Semi Auto and Grapple execution updated, Titan eject sounds, Pulse Blade yeet and sticks, added player death sounds (experimental)
+
+1.2.4: Made a minor change to Scorch's Flame Core sound and add new dropship voicelines
+
+1.2.5: Fixed a crash where a dupe json file was incorrectly put in.
+
+1.2.6: Fixed duplicate flamecore sounds.
+
+1.2.7: Minor changes to regular Ronin and Grand Theft Semi Auto execution sound. More grunts and dropship intro voicelines.

@@ -58,3 +58,5 @@ Contact @nonname123 on Northstar Discord server if you have issues related to my
 1.2.6: Fixed duplicate flamecore sounds.
 
 1.2.7: Minor changes to regular Ronin and Grand Theft Semi Auto execution sound. More grunts and dropship intro voicelines.
+
+1.2.8: Added new killsound, fixed dupe flamewall sound playing and improved it, new sounds for grunts.

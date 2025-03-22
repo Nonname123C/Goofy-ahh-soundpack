@@ -1,0 +1,3 @@
+1. Modded hitbeeps sound has a chance to break when it's played inside buildings. If this is broken in anyways, delete player_hitbeep.json file in the audio folder. To identify, hit an enemy while inside a building, after a short while it'll play the broken version of the sound.
+
+2. Modded First-person Laser Core sound has a chance to break upon activation. If this issue is consistent, delete titan_core_laser_chargeup_1p.json file.
